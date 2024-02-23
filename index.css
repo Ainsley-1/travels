@@ -1,0 +1,100 @@
+.body{
+    background: url(assets/Galaxy.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    
+}
+
+.Bar{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 6px;
+    margin: 5px;
+}
+
+.loc{
+    position: relative;
+    left: 80px;
+}
+
+.GREAT{
+    justify-content: space-between;
+    text-align: center;
+    margin: 110px;
+    padding: 90px;
+    font-size: 50px;
+    
+}
+
+.Sam{
+    text-align: center;
+    padding-bottom: 70px;
+    position: relative;
+    bottom: 160px;
+}
+
+.Explore{
+    text-align: center;
+}
+
+
+.flex2{
+    display: flex;
+    gap: 30px;
+}
+
+
+.More{
+    text-align: center;
+}
+
+.Journal{
+   text-align: center;
+}
+
+
+.flex{
+    justify-content: flex-end;
+    display: flex;
+    gap: 30px;
+
+}
+.Ainsley{
+    text-align: center
+}
+
+.Feb{
+ text-align: center;   
+}
+
+.An{
+    text-align: center;
+}
+
+.Yosmite{
+    text-align: center;
+    
+}
+
+
+
+.Ainsy{
+    text-align: center;
+}
+.Genius.one{
+   text-align: center;
+
+}
+
+.white{
+    text-align: center;
+}
+
+.ALLPOSTS{
+ text-align: center;
+}
+footer{
+  text-align: center;
+  font-size: 20px;
+ font-style: oblique;
+}
